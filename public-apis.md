@@ -43,5 +43,6 @@ Curated collections of public web apis
 
 ## Museums
 | Museum | Base URL | Documentation | Description |
+| ------ | -------- | ------------- | ----------- |
 | Auckland Museum | https://api.aucklandmuseum.com/ | https://api.aucklandmuseum.com/swagger/index.html | A collection of endpoints providing access to all digitital collections | 
 
