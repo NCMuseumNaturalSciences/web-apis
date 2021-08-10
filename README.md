@@ -1,2 +1,2 @@
-# Web APIs
-A repository for information regarding Web APIs, primary wthin the context of science and research data.
+# Web API Resources
+A repository for both technical and non-technical resources about Web APIs, primary wthin the context of science and research data.
