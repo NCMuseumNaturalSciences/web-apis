@@ -7,7 +7,7 @@ Curated collections of public web apis
 | Atlas of Living Australia | https://api.ala.org.au/ | |
 | iNaturalist | https://api.inaturalist.org/v1/docs/ | |
 | NASA | https://api.nasa.gov/ | |
-| Oceanic Biodiveristy Information System (OBIS) | https://api.obis.org/ | |
+| Oceanic Biodiveristy Information System (OBIS) | https://api.obis.org/ | Global open-access data and information clearing-house on marine biodiversity |
 | IUCN Red List | https://apiv3.iucnredlist.org/api/v3/docS | |
 | USGS BISON | https://bison.usgs.gov/#api | Biodiversity Information Serving Our Nation |
 | Netherlands Biodiversity API | https://docs.biodiversitydata.nl/en/latest/ | |
