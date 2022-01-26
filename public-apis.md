@@ -5,6 +5,7 @@ Curated collections of public web apis within a scientific scope
 | API | Link | Remarks |
 | --- | --- | --- |
 | Atlas of Living Australia | https://api.ala.org.au/ | |
+| Catalog of Life | https://api.catalogueoflife.org/ | Version 2 | 
 | iNaturalist | https://api.inaturalist.org/v1/docs/ | |
 | NASA | https://api.nasa.gov/ | |
 | Oceanic Biodiveristy Information System (OBIS) | https://api.obis.org/ | Global open-access data and information clearing-house on marine biodiversity |
