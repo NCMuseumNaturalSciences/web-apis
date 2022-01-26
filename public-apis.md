@@ -1,5 +1,5 @@
 # Public Web APIs
-Curated collections of public web apis
+Curated collections of public web apis within a scientific scope  
 
 ## Bioinformatics
 | API | Link | Remarks |
