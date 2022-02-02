@@ -28,6 +28,7 @@ Curated collections of public web apis within a scientific scope
 | TreeBASE | https://www.treebase.org/treebase-web/urlAPI.html | Repository of phylogenetic information |
 | NCEI Paleo Web Service | https://www.ncei.noaa.gov/access/paleo-search/api | Paleoclimatology Data from the National Centers for Environmental Information (NCEI) |
 | NOAA Climate Data Online | https://www.ncdc.noaa.gov/cdo-web/webservices/v2 | Climate data web services provided by the National Climate Data Center at NOAA |
+| DataCite REST API | https://support.datacite.org/docs/mds-api-guide | The DataCite REST API allows user to acquire metadata published through DataCite |
 
 ## Planetary Science
 | API | Link | Remarks |
