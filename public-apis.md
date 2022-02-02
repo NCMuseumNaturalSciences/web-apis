@@ -26,7 +26,7 @@ Curated collections of public web apis within a scientific scope
 | WoRMS | https://www.marinespecies.org/rest/ | World Register of Marine Species |
 | MorphoSource | https://www.morphosource.org/docs/api | |
 | TreeBASE | https://www.treebase.org/treebase-web/urlAPI.html | Repository of phylogenetic information |
-| NCEI Paleo Web Service | https://www.ncei.noaa.gov/access/paleo-search/api | Paleoclimatology Data provided through NOAA |
+| NCEI Paleo Web Service | https://www.ncei.noaa.gov/access/paleo-search/api | Paleoclimatology Data from the National Centers for Environmental Information (NCEI) |
 
 ## Planetary Science
 | API | Link | Remarks |
