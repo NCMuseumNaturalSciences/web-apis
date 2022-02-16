@@ -36,7 +36,11 @@ Curated collections of public web apis within a scientific scope
 | Sunset and Sunrise | https://sunrise-sunset.org/api-docs/ | |
 | Minor Planet Center | https://www.asterank.com/mpc | |
 
-
+## Geography 
+| API | Link | Remarks |
+| --- | --- | --- |
+| Marine Gazetteer | https://www.marineregions.org/gazetteer.php?p=webservices | Marineregions.org |
+  
 ## Geospatial
 | API | Link | Remarks |
 | --- | --- | --- |
