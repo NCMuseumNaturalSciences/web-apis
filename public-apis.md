@@ -39,7 +39,7 @@ Curated collections of public web apis within a scientific scope
 ## Geography 
 | API | Link | Remarks |
 | --- | --- | --- |
-| Marine Gazetteer | https://www.marineregions.org/gazetteer.php?p=webservices | Marineregions.org |
+| Marine Gazetteer | https://www.marineregions.org/gazetteer.php?p=webservices&type=rest | Marineregions.org |
   
 ## Geospatial
 | API | Link | Remarks |
