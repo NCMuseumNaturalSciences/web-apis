@@ -48,6 +48,7 @@ Curated collections of public web apis within a scientific scope
 | Open Elevation | https://github.com/Jorl17/open-elevation/blob/master/docs/api.md | |
 | Elevation Point Query | https://nationalmap.gov/epqs/ | |
 | VertNET | https://api-geospatial.vertnet-portal.appspot.com/geospatial | |
+| Elevation | https://www.opentopodata.org/ | |
 
 ## Museums
 | Museum | Base URL | Documentation | Description |
