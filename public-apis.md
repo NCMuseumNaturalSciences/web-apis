@@ -30,6 +30,11 @@ Curated collections of public web apis within a scientific scope
 | NOAA Climate Data Online | https://www.ncdc.noaa.gov/cdo-web/webservices/v2 | Climate data web services provided by the National Climate Data Center at NOAA |
 | DataCite REST API | https://support.datacite.org/docs/mds-api-guide | The DataCite REST API allows user to acquire metadata published through DataCite |
 
+## Vocabularies
+| API | Link | Remarks |
+| --- | --- | --- |
+| GBIF Enumerations | https://api.gbif.org/v1/enumeration/basic/ | |
+  
 ## Planetary Science
 | API | Link | Remarks |
 | --- | --- | --- |
