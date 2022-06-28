@@ -54,6 +54,7 @@ Curated collections of public web apis within a scientific scope
 | Elevation Point Query | https://nationalmap.gov/epqs/ | |
 | VertNET | https://api-geospatial.vertnet-portal.appspot.com/geospatial | |
 | Elevation | https://www.opentopodata.org/ | |
+| Arctic Research Mapping Field Projects | https://armap.org/web-services/rest/ | |
 
 ## Museums
 | Museum | Base URL | Documentation | Description |
